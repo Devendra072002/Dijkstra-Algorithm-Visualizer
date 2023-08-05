@@ -8,12 +8,12 @@ import Footer from "../Footer/Footer";
 const Button = styled.button`
   background-color: black;
   color: white;
-  font-size: 18px;
+  font-size: 15px;
   font-family: "REM", sans-serif;
 
-  padding: 10px 60px;
+  padding: 10px 50px;
   border-radius: 5px;
-  margin: 10px 0px;
+  margin: 6px 0px;
   cursor: pointer;
 `;
 
@@ -92,7 +92,7 @@ export default class PathFindingVisualizer extends Component {
     return (
       <>
         <div className="logo">
-          <img src={logo} width="100" height="70" alt="logo-img" />
+          <img src={logo} width="100" height="60" alt="logo-img" />
         </div>
         <Button onClick={() => this.visualizeDijkstra()}>
           Visualize Dijkstra's Algorithm
