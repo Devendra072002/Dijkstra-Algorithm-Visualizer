@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![scrnli_10_25_2023_4-05-31 AM (2)](https://github.com/Devendra072002/Dijkstra-Algorithm-Visualizer/assets/95930224/f9a6c8a1-eb02-46a7-bf33-4af31f0d3995)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
